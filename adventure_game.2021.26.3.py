@@ -2,7 +2,7 @@ import time
 
 import random
 
-MONSTER_NAMES = ["bog monster", "snake monster", "hairy monster", "giant scorpion monster", "troll", "shadow monster"]
+MONSTER_NAMES = ["bog monster", "snake monster", "hairy monster", "giant scorpion monster", "troll", "shadow monster", "vampire monster"]
 SLEEP_TIME = 2
 
 # Game state
